@@ -1630,7 +1630,7 @@
       "disableUserInfo" : "false",
       "filteredByClaim" : "false",
       "syncMode" : "IMPORT",
-      "clientSecret": "YOUR_GOOGLE_CLIENT_SECRET",
+      "clientSecret": "YOUR_GOOGLE_CLIENT_SECRET"
     }
   } ],
   "identityProviderMappers" : [ ],
