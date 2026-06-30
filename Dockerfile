@@ -7,5 +7,4 @@ ENTRYPOINT ["/opt/keycloak/bin/kc.sh", "start", \
   "--proxy=edge", \
   "--hostname-strict=false", \
   "--hostname-strict-https=false", \
-  "--http-enabled=true", \
-  "--spi-content-security-policy-frame-ancestors=https://insureflow-frontendd.vercel.app"]
+  "--http-enabled=true"]
